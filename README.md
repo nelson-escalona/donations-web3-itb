@@ -1,3 +1,11 @@
+# D2O (Donate 2 an Organization)
+
+The purpose of this repo is to develop a Web3 app that handles donations to student organizations in UPRM.
+
+---
+
+The following content is the README content given by REMIX:
+
 REMIX DEFAULT WORKSPACE
 
 Remix default workspace is present when:
